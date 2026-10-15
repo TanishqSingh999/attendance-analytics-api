@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+commands_log.txt
+PROBLEM_STATEMENT.docx
